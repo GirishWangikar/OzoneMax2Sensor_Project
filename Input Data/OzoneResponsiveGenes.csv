@@ -1,0 +1,333 @@
+﻿Locus,Gene Symbol,Full Name,Keyword,Category,GO
+AT5G18100,CSD3,COPPER/ZINC SUPEROXIDE DISMUTASE 3,cellular response to ozone,OzoneResponsive,GO:0071457
+AT1G08830,CSD1,COPPER/ZINC SUPEROXIDE DISMUTASE 1,cellular response to ozone,OzoneResponsive,GO:0071457
+AT2G28190,CSD2,COPPER/ZINC SUPEROXIDE DISMUTASE 2,cellular response to ozone,OzoneResponsive,GO:0071457
+AT1G12480,OZS1, OZONE-SENSITIVE 1,response to ozone,OzoneResponsive,GO:0010193
+AT1G19570,DHAR1, DEHYDROASCORBATE REDUCTASE,response to ozone,OzoneResponsive,GO:0010193
+AT1G32230,RCD1, RADICAL-INDUCED CELL DEATH1,response to ozone,OzoneResponsive,GO:0010193
+AT1G51400,AT1G51400,,response to ozone,OzoneResponsive,GO:0010193
+AT1G53130,GRI, GRIM REAPER,response to ozone,OzoneResponsive,GO:0010193
+AT1G70520,CRK2, CYSTEINE-RICH RLK2,response to ozone,OzoneResponsive,GO:0010193
+AT1G72520,LOX4, LIPOXYGENASE 4,response to ozone,OzoneResponsive,GO:0010193
+AT2G03445,MIR398A, MICRORNA398A,response to ozone,OzoneResponsive,GO:0010193
+AT2G39770,CYT1, CYTOKINESIS DEFECTIVE 1,response to ozone,OzoneResponsive,GO:0010193
+AT3G05970,LACS6, LONG-CHAIN ACYL-COA SYNTHETASE 6,response to ozone,OzoneResponsive,GO:0010193
+AT3G10985,SAG20, SENESCENCE ASSOCIATED GENE 20,response to ozone,OzoneResponsive,GO:0010193
+AT3G17800,DUF760?5,,response to ozone,OzoneResponsive,GO:0010193
+AT3G47450,NOA1, NO ASSOCIATED 1,response to ozone,OzoneResponsive,GO:0010193
+AT4G00860,ATOZI1,,response to ozone,OzoneResponsive,GO:0010193
+AT4G11170,RMG1, RESISTANCE METHYLATED GENE 1,response to ozone,OzoneResponsive,GO:0010193
+AT4G23100,GSH1, GLUTAMATE-CYSTEINE LIGASE,response to ozone,OzoneResponsive,GO:0010193
+AT4G23810,WRKY53,,response to ozone,OzoneResponsive,GO:0010193
+AT5G14545,MIR398B, MICRORNA398B,response to ozone,OzoneResponsive,GO:0010193
+AT5G14565,MIR398C, MICRORNA398C,response to ozone,OzoneResponsive,GO:0010193
+AT5G27600,LACS7, LONG-CHAIN ACYL-COA SYNTHETASE 7,response to ozone,OzoneResponsive,GO:0010193
+AT5G49570,PNG1, PEPTIDE-N-GLYCANASE 1,response to ozone,OzoneResponsive,GO:0010193
+AT5G55120,VTC5, VITAMIN C DEFECTIVE 5,response to ozone,OzoneResponsive,GO:0010193
+AT1G11650,RBP45B,,response to ozone,OzoneResponsive,GO:0010193
+AT2G06050,OPR3, OXOPHYTODIENOATE-REDUCTASE 3,response to ozone,OzoneResponsive,GO:0010193
+AT2G46370,JAR1, JASMONATE RESISTANT 1,response to ozone,OzoneResponsive,GO:0010193
+AT3G02840,AT3G02840,,response to ozone,OzoneResponsive,GO:0010193
+AT3G06110,MKP2, MAPK PHOSPHATASE 2,response to ozone,OzoneResponsive,GO:0010193
+AT3G23400,FIB4, FIBRILLIN 4FBN4,response to ozone,OzoneResponsive,GO:0010193
+AT4G12720,NUDT7,,response to ozone,OzoneResponsive,GO:0010193
+AT4G25100,FSD1, FE SUPEROXIDE DISMUTASE 1,response to ozone,OzoneResponsive,GO:0010193
+AT5G24110,WRKY30, WRKY DNA-BINDING PROTEIN 30,response to ozone,OzoneResponsive,GO:0010193
+AT5G42380,CML37, CALMODULIN LIKE 37,response to ozone,OzoneResponsive,GO:0010193
+AT2G43535,AT2G43535,,ion channel inhibitor activity,IonChannel,GO:0008200
+AT2G43520,TI2, TRYPSIN INHIBITOR PROTEIN 2,ion channel inhibitor activity,IonChannel,GO:0008200
+AT2G43550,AT2G43550,,ion channel inhibitor activity,IonChannel,GO:0008200
+AT2G43530,AT2G43530,,ion channel inhibitor activity,IonChannel,GO:0008200
+AT2G43510,TI1, TRYPSIN INHIBITOR PROTEIN 1,ion channel inhibitor activity,IonChannel,GO:0008200
+AT1G47540,AT1G47540,,ion channel inhibitor activity,IonChannel,GO:0008200
+AT3G27831,PDFL3.1,,ion channel inhibitor activity,IonChannel,GO:0008200
+AT4G22200,AKT2,AKT2/3,monoatomic ion channel activity,IonChannel,GO:0005216
+AT1G25480,ALMT4,ALUMINIUM ACTIVATED MALATE TRANSPORTER 4,monoatomic ion channel activity,IonChannel,GO:0005216
+AT3G18440,ALMT9,ALUMINUM-ACTIVATED MALATE TRANSPORTER 9,monoatomic ion channel activity,IonChannel,GO:0005216
+AT4G32650,ATKC1,ARABIDOPSIS THALIANA K+ RECTIFYING CHANNEL 1,monoatomic ion channel activity,IonChannel,GO:0005216
+AT2G26650,AKT1,ATAKT1,monoatomic ion channel activity,IonChannel,GO:0005216
+AT1G01340,ACBK1,ATCNGC10,monoatomic ion channel activity,IonChannel,GO:0005216
+ATCG00480,ATPB,ATP SYNTHASE SUBUNIT BETA,monoatomic ion channel activity,IonChannel,GO:0005216
+ATMG00410,ATP6-1,ATPASE SUBUNIT 6-1,monoatomic ion channel activity,IonChannel,GO:0005216
+AT1G27770,ACA1,AUTOINHIBITED CA2+-ATPASE 1,monoatomic ion channel activity,IonChannel,GO:0005216
+AT3G61320,BEST,BESTROPHIN-LIKE PROTEIN,monoatomic ion channel activity,IonChannel,GO:0005216
+AT5G55630,ATKCO1,CA2+ ACTIVATED OUTWARD RECTIFYING K+ CHANNEL 1,monoatomic ion channel activity,IonChannel,GO:0005216
+AT5G46370,ATKCO2,CA2+ ACTIVATED OUTWARD RECTIFYING K+ CHANNEL 2,monoatomic ion channel activity,IonChannel,GO:0005216
+AT5G46360,ATKCO3,CA2+ ACTIVATED OUTWARD RECTIFYING K+ CHANNEL 3,monoatomic ion channel activity,IonChannel,GO:0005216
+AT1G02510,KCO4,CA2+ ACTIVATED OUTWARD RECTIFYING K+ CHANNEL 4,monoatomic ion channel activity,IonChannel,GO:0005216
+AT4G01840,ATKCO5,CA2+ ACTIVATED OUTWARD RECTIFYING K+ CHANNEL 5,monoatomic ion channel activity,IonChannel,GO:0005216
+AT4G18160,ATKCO6,CA2+ ACTIVATED OUTWARD RECTIFYING K+ CHANNEL 6,monoatomic ion channel activity,IonChannel,GO:0005216
+AT3G27170,CLC-B,CHLORIDE CHANNEL B,monoatomic ion channel activity,IonChannel,GO:0005216
+AT5G49890,CLC-C,CHLORIDE CHANNEL C,monoatomic ion channel activity,IonChannel,GO:0005216
+AT5G26240,CLC-D,CHLORIDE CHANNEL D,monoatomic ion channel activity,IonChannel,GO:0005216
+AT4G35440,CLC-E,CHLORIDE CHANNEL E,monoatomic ion channel activity,IonChannel,GO:0005216
+AT1G55620,CLC-F,CHLORIDE CHANNEL F,monoatomic ion channel activity,IonChannel,GO:0005216
+AT5G33280,CLCG,CHLORIDE CHANNEL G,monoatomic ion channel activity,IonChannel,GO:0005216
+AT5G40890,CLC-A,CHLORIDE CHANNEL-A,monoatomic ion channel activity,IonChannel,GO:0005216
+AT2G43950,OEP37,CHLOROPLAST OUTER ENVELOPE PROTEIN 37,monoatomic ion channel activity,IonChannel,GO:0005216
+AT1G19780,CNGC8,CYCLIC NUCLEOTIDE GATED CHANNEL 8,monoatomic ion channel activity,IonChannel,GO:0005216
+AT5G53130,CNGC1,CYCLIC NUCLEOTIDE GATED CHANNEL 1,monoatomic ion channel activity,IonChannel,GO:0005216
+AT3G17690,CNGC19,CYCLIC NUCLEOTIDE GATED CHANNEL 19,monoatomic ion channel activity,IonChannel,GO:0005216
+AT5G15410,CNGC2,CYCLIC NUCLEOTIDE GATED CHANNEL 2,monoatomic ion channel activity,IonChannel,GO:0005216
+AT2G46430,CNGC3,CYCLIC NUCLEOTIDE GATED CHANNEL 3,monoatomic ion channel activity,IonChannel,GO:0005216
+AT1G15990,CNGC7,CYCLIC NUCLEOTIDE GATED CHANNEL 7,monoatomic ion channel activity,IonChannel,GO:0005216
+AT4G30560,CNGC9,CYCLIC NUCLEOTIDE GATED CHANNEL 9,monoatomic ion channel activity,IonChannel,GO:0005216
+AT5G54250,CNGC4,CYCLIC NUCLEOTIDE-GATED CATION CHANNEL 4,monoatomic ion channel activity,IonChannel,GO:0005216
+AT2G46450,CNGC12,CYCLIC NUCLEOTIDE-GATED CHANNEL 12,monoatomic ion channel activity,IonChannel,GO:0005216
+AT4G01010,CNGC13,CYCLIC NUCLEOTIDE-GATED CHANNEL 13,monoatomic ion channel activity,IonChannel,GO:0005216
+AT2G24610,CNGC14,CYCLIC NUCLEOTIDE-GATED CHANNEL 14,monoatomic ion channel activity,IonChannel,GO:0005216
+AT2G28260,CNGC15,CYCLIC NUCLEOTIDE-GATED CHANNEL 15,monoatomic ion channel activity,IonChannel,GO:0005216
+AT3G48010,CNGC16,CYCLIC NUCLEOTIDE-GATED CHANNEL 16,monoatomic ion channel activity,IonChannel,GO:0005216
+AT4G30360,CNGC17,CYCLIC NUCLEOTIDE-GATED CHANNEL 17,monoatomic ion channel activity,IonChannel,GO:0005216
+AT5G14870,CNGC18,CYCLIC NUCLEOTIDE-GATED CHANNEL 18,monoatomic ion channel activity,IonChannel,GO:0005216
+AT2G23980,CNGC6,CYCLIC NUCLEOTIDE-GATED CHANNEL 6,monoatomic ion channel activity,IonChannel,GO:0005216
+AT5G13450,ATP5,DELTA SUBUNIT OF MT ATP SYNTHASE,monoatomic ion channel activity,IonChannel,GO:0005216
+AT4G03560,FOU2,FATTY ACID OXYGENATION UPREGULATED 2,monoatomic ion channel activity,IonChannel,GO:0005216
+AT2G33040,ATP3,GAMMA SUBUNIT OF MT ATP SYNTHASE,monoatomic ion channel activity,IonChannel,GO:0005216
+AT2G29120,GLR2.7,GLUTAMATE RECEPTOR 2.7,monoatomic ion channel activity,IonChannel,GO:0005216
+AT2G29100,GLR2.9,GLUTAMATE RECEPTOR 2.9,monoatomic ion channel activity,IonChannel,GO:0005216
+AT2G32390,GLR3.5,GLUTAMATE RECEPTOR 3.5,monoatomic ion channel activity,IonChannel,GO:0005216
+AT3G04110,GLR1,GLUTAMATE RECEPTOR 1,monoatomic ion channel activity,IonChannel,GO:0005216
+AT5G48400,GLR1.2,GLUTAMATE RECEPTOR 1.2,monoatomic ion channel activity,IonChannel,GO:0005216
+AT5G48410,GLR1.3,GLUTAMATE RECEPTOR 1.3,monoatomic ion channel activity,IonChannel,GO:0005216
+AT3G07520,GLR1.4,GLUTAMATE RECEPTOR 1.4,monoatomic ion channel activity,IonChannel,GO:0005216
+AT4G35290,GLUR2,GLUTAMATE RECEPTOR 2,monoatomic ion channel activity,IonChannel,GO:0005216
+AT2G17260,GLR2,GLUTAMATE RECEPTOR 2,monoatomic ion channel activity,IonChannel,GO:0005216
+AT5G27100,GLR2.1,GLUTAMATE RECEPTOR 2.1,monoatomic ion channel activity,IonChannel,GO:0005216
+AT2G24720,GLR2.2,GLUTAMATE RECEPTOR 2.2,monoatomic ion channel activity,IonChannel,GO:0005216
+AT2G24710,GLR2.3,GLUTAMATE RECEPTOR 2.3,monoatomic ion channel activity,IonChannel,GO:0005216
+AT4G31710,GLR2.4,GLUTAMATE RECEPTOR 2.4,monoatomic ion channel activity,IonChannel,GO:0005216
+AT5G11210,GLR2.5,GLUTAMATE RECEPTOR 2.5,monoatomic ion channel activity,IonChannel,GO:0005216
+AT5G11180,GLR2.6,GLUTAMATE RECEPTOR 2.6,monoatomic ion channel activity,IonChannel,GO:0005216
+AT2G29110,GLR2.8,GLUTAMATE RECEPTOR 2.8,monoatomic ion channel activity,IonChannel,GO:0005216
+AT1G42540,GLR3.3,GLUTAMATE RECEPTOR 3.3,monoatomic ion channel activity,IonChannel,GO:0005216
+AT1G05200,ATGLR3.4,GLUTAMATE RECEPTOR 3.4,monoatomic ion channel activity,IonChannel,GO:0005216
+AT3G51480,GLR3.6,GLUTAMATE RECEPTOR 3.6,monoatomic ion channel activity,IonChannel,GO:0005216
+AT2G32400,GLR3.7,GLUTAMATE RECEPTOR 3.7,monoatomic ion channel activity,IonChannel,GO:0005216
+AT3G01100,HYP1,HYPOTHETICAL PROTEIN 1,monoatomic ion channel activity,IonChannel,GO:0005216
+AT4G32500,AKT5,K+ TRANSPORTER 5,monoatomic ion channel activity,IonChannel,GO:0005216
+AT5G12080,ATMSL10,MECHANOSENSITIVE CHANNEL OF SMALL CONDUCTANCE-LIKE 10,monoatomic ion channel activity,IonChannel,GO:0005216
+AT5G19520,ATMSL9,MECHANOSENSITIVE CHANNEL OF SMALL CONDUCTANCE-LIKE 9,monoatomic ion channel activity,IonChannel,GO:0005216
+AT4G35920,MCA1,MID1-COMPLEMENTING ACTIVITY 1,monoatomic ion channel activity,IonChannel,GO:0005216
+AT2G17780,MCA2,MID1-COMPLEMENTING ACTIVITY 2,monoatomic ion channel activity,IonChannel,GO:0005216
+AT1G09575,MCU1,MITOCHONDRIAL CALCIUM UPTAKE1,monoatomic ion channel activity,IonChannel,GO:0005216
+AT1G57610,MCU2,MITOCHONDRIAL CALCIUM UPTAKE2,monoatomic ion channel activity,IonChannel,GO:0005216
+AT3G27930,OM47,OUTER MEMBRANE 47,monoatomic ion channel activity,IonChannel,GO:0005216
+AT5G46240,KAT1,POTASSIUM CHANNEL IN ARABIDOPSIS THALIANA 1,monoatomic ion channel activity,IonChannel,GO:0005216
+AT4G18290,KAT2,POTASSIUM CHANNEL IN ARABIDOPSIS THALIANA 2,monoatomic ion channel activity,IonChannel,GO:0005216
+AT1G11960,OSCA1.3,REDUCED HYPEROSMOLALITY-INDUCED CA2+ INCREASE 1.3,monoatomic ion channel activity,IonChannel,GO:0005216
+AT1G62320,OSCA1.4,REDUCED HYPEROSMOLALITY-INDUCED CA2+ INCREASE 1.4,monoatomic ion channel activity,IonChannel,GO:0005216
+AT3G21620,OSCA1.5,REDUCED HYPEROSMOLALITY-INDUCED CA2+ INCREASE 1.5,monoatomic ion channel activity,IonChannel,GO:0005216
+AT4G15430,OSCA1.6,REDUCED HYPEROSMOLALITY-INDUCED CA2+ INCREASE 1.6,monoatomic ion channel activity,IonChannel,GO:0005216
+AT4G02900,OSCA1.7,REDUCED HYPEROSMOLALITY-INDUCED CA2+ INCREASE 1.7,monoatomic ion channel activity,IonChannel,GO:0005216
+AT1G32090,OSCA1.8,REDUCED HYPEROSMOLALITY-INDUCED CA2+ INCREASE 1.8,monoatomic ion channel activity,IonChannel,GO:0005216
+AT1G58520,OSCA2.1,REDUCED HYPEROSMOLALITY-INDUCED CA2+ INCREASE 2.1,monoatomic ion channel activity,IonChannel,GO:0005216
+AT1G10090,OSCA2.2,REDUCED HYPEROSMOLALITY-INDUCED CA2+ INCREASE 2.2,monoatomic ion channel activity,IonChannel,GO:0005216
+AT1G69450,OSCA2.4,REDUCED HYPEROSMOLALITY-INDUCED CA2+ INCREASE 2.4,monoatomic ion channel activity,IonChannel,GO:0005216
+AT3G54510,OSCA2.5,REDUCED HYPEROSMOLALITY-INDUCED CA2+ INCREASE 2.5,monoatomic ion channel activity,IonChannel,GO:0005216
+AT4G35870,OSCA4.1,REDUCED HYPEROSMOLALITY-INDUCED CA2+ INCREASE 4.1,monoatomic ion channel activity,IonChannel,GO:0005216
+AT2G25600,AKT6,SHAKER POLLEN INWARD K+ CHANNEL,monoatomic ion channel activity,IonChannel,GO:0005216
+AT3G02850,SKOR,STELAR K+ OUTWARD RECTIFIER,monoatomic ion channel activity,IonChannel,GO:0005216
+AT1G73020,TMEM16,TRANS MEMBRANE PROTEIN 16,monoatomic ion channel activity,IonChannel,GO:0005216
+AT3G01390,AVMA10,VACUOLAR MEMBRANE ATPASE 10,monoatomic ion channel activity,IonChannel,GO:0005216
+AT3G01280,VDAC1,VOLTAGE DEPENDENT ANION CHANNEL 1,monoatomic ion channel activity,IonChannel,GO:0005216
+AT5G67500,VDAC2,VOLTAGE DEPENDENT ANION CHANNEL 2,monoatomic ion channel activity,IonChannel,GO:0005216
+AT5G15090,VDAC3,VOLTAGE DEPENDENT ANION CHANNEL 3,monoatomic ion channel activity,IonChannel,GO:0005216
+AT5G57490,VDAC4,VOLTAGE DEPENDENT ANION CHANNEL 4,monoatomic ion channel activity,IonChannel,GO:0005216
+AT3G49920,VDAC5,VOLTAGE DEPENDENT ANION CHANNEL 5,monoatomic ion channel activity,IonChannel,GO:0005216
+ATMG00480,ATP8,ATP SYNTHASE 8,monoatomic ion channel activity,IonChannel,GO:0005216
+AT3G52300,ATPD,"ATP SYNTHASE D CHAIN, MITOCHONDRIAL",monoatomic ion channel activity,IonChannel,GO:0005216
+AT4G09650,ATPD,ATP SYNTHASE DELTA-SUBUNIT GENE,monoatomic ion channel activity,IonChannel,GO:0005216
+ATCG00470,ATPE,ATP SYNTHASE EPSILON CHAIN,monoatomic ion channel activity,IonChannel,GO:0005216
+ATMG01190,ATP1,ATP SYNTHASE SUBUNIT 1,monoatomic ion channel activity,IonChannel,GO:0005216
+ATCG00120,ATPA,ATP SYNTHASE SUBUNIT ALPHA,monoatomic ion channel activity,IonChannel,GO:0005216
+AT4G22120,CSC1,CALCIUM PERMEABLE STRESS-GATED CATION CHANNEL 1,monoatomic ion channel activity,IonChannel,GO:0005216
+AT5G66650,CMCU,CHLOROPLAST-LOCALIZED MITOCHONDRIAL CALCIUM UNIPORTER,monoatomic ion channel activity,IonChannel,GO:0005216
+AT3G17700,CNGC20,CYCLIC NUCLEOTIDE GATEDCHANNEL 20,monoatomic ion channel activity,IonChannel,GO:0005216
+AT5G57940,CNGC5,CYCLIC NUCLEOTIDE GATEDCHANNEL 5,monoatomic ion channel activity,IonChannel,GO:0005216
+AT2G46440,CNGC11,CYCLIC NUCLEOTIDE-GATEDCHANNEL 11,monoatomic ion channel activity,IonChannel,GO:0005216
+AT1G30360,ERD4,EARLY-RESPONSIVE TO DEHYDRATION 4,monoatomic ion channel activity,IonChannel,GO:0005216
+AT5G37500,GORK,GATED OUTWARDLY-RECTIFYING K+ CHANNEL,monoatomic ion channel activity,IonChannel,GO:0005216
+AT1G53470,MSL4,MECHANOSENSITIVE CHANNEL OF SMALL CONDUCTANCE-LIKE 4,monoatomic ion channel activity,IonChannel,GO:0005216
+AT3G14810,MSL5,MECHANOSENSITIVE CHANNEL OF SMALL CONDUCTANCE-LIKE 5,monoatomic ion channel activity,IonChannel,GO:0005216
+AT1G78610,MSL6,MECHANOSENSITIVE CHANNEL OF SMALL CONDUCTANCE-LIKE 6,monoatomic ion channel activity,IonChannel,GO:0005216
+AT5G10490,MSL2,MSCS-LIKE 2,monoatomic ion channel activity,IonChannel,GO:0005216
+AT1G58200,MSL3,MSCS-LIKE 3,monoatomic ion channel activity,IonChannel,GO:0005216
+AT2G17000,MSL7,MSCS-LIKE 7,monoatomic ion channel activity,IonChannel,GO:0005216
+AT2G17010,MSL8,MSCS-LIKE 8,monoatomic ion channel activity,IonChannel,GO:0005216
+AT4G04340,OSCA1.1,REDUCED HYPEROSMOLALITY-INDUCED CA2+ INCREASE 1.1,monoatomic ion channel activity,IonChannel,GO:0005216
+AT1G62280,SLAH1,SLAC1 HOMOLOGUE 1,monoatomic ion channel activity,IonChannel,GO:0005216
+AT4G27970,SLAH2,SLAC1 HOMOLOGUE 2,monoatomic ion channel activity,IonChannel,GO:0005216
+AT5G24030,SLAH3,SLAC1 HOMOLOGUE 3,monoatomic ion channel activity,IonChannel,GO:0005216
+AT1G62262,SLAH4,SLAC1 HOMOLOGUE 4,monoatomic ion channel activity,IonChannel,GO:0005216
+AT1G78900,VHA-A,VACUOLAR ATP SYNTHASE SUBUNIT A,monoatomic ion channel activity,IonChannel,GO:0005216
+ATMG01170,ATP6-2,,monoatomic ion channel activity,IonChannel,GO:0005216
+AT4G04640,ATPC1,,monoatomic ion channel activity,IonChannel,GO:0005216
+AT1G15700,ATPC2,,monoatomic ion channel activity,IonChannel,GO:0005216
+ATCG00130,ATPF,,monoatomic ion channel activity,IonChannel,GO:0005216
+ATCG00150,ATPI,,monoatomic ion channel activity,IonChannel,GO:0005216
+AT1G70480,JASSY,,monoatomic ion channel activity,IonChannel,GO:0005216
+AT2G23790,MCU3,,monoatomic ion channel activity,IonChannel,GO:0005216
+AT4G36820,MCU4,,monoatomic ion channel activity,IonChannel,GO:0005216
+AT5G42610,MCU5,,monoatomic ion channel activity,IonChannel,GO:0005216
+AT4G00290,MSL1,,monoatomic ion channel activity,IonChannel,GO:0005216
+AT1G76405,OEP2,,monoatomic ion channel activity,IonChannel,GO:0005216
+ATMG00640,ORF25,,monoatomic ion channel activity,IonChannel,GO:0005216
+AT2G45870,VCCN2,,monoatomic ion channel activity,IonChannel,GO:0005216
+AT3G12030,AT3G12030,,monoatomic ion channel activity,IonChannel,GO:0005216
+AT5G08690,AT5G08690,,monoatomic ion channel activity,IonChannel,GO:0005216
+AT5G37610,AT5G37610,,monoatomic ion channel activity,IonChannel,GO:0005216
+AT1G45170,AT1G45170,,monoatomic ion channel activity,IonChannel,GO:0005216
+AT1G10800,AT1G10800,,monoatomic ion channel activity,IonChannel,GO:0005216
+AT5G42960,AT5G42960,,monoatomic ion channel activity,IonChannel,GO:0005216
+AT4G00895,AT4G00895,,monoatomic ion channel activity,IonChannel,GO:0005216
+AT1G20816,AT1G20816,,monoatomic ion channel activity,IonChannel,GO:0005216
+AT5G06660,AT5G06660,,monoatomic ion channel activity,IonChannel,GO:0005216
+AT4G29480,AT4G29480,,monoatomic ion channel activity,IonChannel,GO:0005216
+AT5G47030,AT5G47030,,monoatomic ion channel activity,IonChannel,GO:0005216
+AT1G51650,AT1G51650,,monoatomic ion channel activity,IonChannel,GO:0005216
+AT2G19680,AT2G19680,,monoatomic ion channel activity,IonChannel,GO:0005216
+AT4G26210,AT4G26210,,monoatomic ion channel activity,IonChannel,GO:0005216
+AT2G07698,AT2G07698,,monoatomic ion channel activity,IonChannel,GO:0005216
+AT5G08680,AT5G08680,,monoatomic ion channel activity,IonChannel,GO:0005216
+AT4G32060,MICU,,uniplex complex,IonChannel,GO:0034703
+AT5G12020,HSP17.6II,17.6 KDA CLASS II HEAT SHOCK PROTEIN,response to reactive oxygen species,ROS,GO:0000302
+AT5G64940,OSA1,OXIDATIVE STRESS-RELATED ABC1-LIKE PROTEIN 1,response to reactive oxygen species,ROS,GO:0000302
+AT1G56560,A/N-INVA,ALKALINE/NEUTRAL INVERTASE A,response to reactive oxygen species,ROS,GO:0000302
+AT1G35580,CINV1,CYTOSOLIC INVERTASE 1,response to reactive oxygen species,ROS,GO:0000302
+AT1G04580,AAO4,ALDEHYDE OXIDASE 2,response to reactive oxygen species,ROS,GO:0000302
+AT3G02860,ARS1,ABA AND ROS SENSITIVE 1,response to reactive oxygen species,ROS,GO:0000302
+AT3G50310,AIK1,ABA-INSENSITIVE PROTEIN KINASE 1,response to reactive oxygen species,ROS,GO:0000302
+AT1G31770,ABCG14,ATP-BINDING CASSETTE G14,response to reactive oxygen species,ROS,GO:0000302
+AT1G66950,ABCG39,ATP-BINDING CASSETTE G39,response to reactive oxygen species,ROS,GO:0000302
+AT1G15520,ABCG40,ATP-BINDING CASSETTE G40,response to reactive oxygen species,ROS,GO:0000302
+AT1G62380,ACO2,ACC OXIDASE 2,response to reactive oxygen species,ROS,GO:0000302
+AT1G77120,ADH,ALCOHOL DEHYDROGENASE 1,response to reactive oxygen species,ROS,GO:0000302
+AT4G13540,ADR,ANTHER DEHISCENCE REPRESSOR,response to reactive oxygen species,ROS,GO:0000302
+AT5G10720,AHK5,HISTIDINE KINASE 5,response to reactive oxygen species,ROS,GO:0000302
+AT3G06590,AIF2,ATBS1 INTERACTING FACTOR 2,response to reactive oxygen species,ROS,GO:0000302
+AT3G01420,PADOX1,PLANT ALPHA DIOXYGENASE 1,response to reactive oxygen species,ROS,GO:0000302
+AT1G34190,ANAC017,NAC DOMAIN CONTAINING PROTEIN 17,response to reactive oxygen species,ROS,GO:0000302
+AT3G29035,ANAC059,ARABIDOPSIS NAC DOMAIN CONTAINING PROTEIN 59,response to reactive oxygen species,ROS,GO:0000302
+AT5G39610,ANAC092,ARABIDOPSIS NAC DOMAIN CONTAINING PROTEIN 92,response to reactive oxygen species,ROS,GO:0000302
+AT1G07890,APX1,ASCORBATE PEROXIDASE 1,response to reactive oxygen species,ROS,GO:0000302
+AT3G09640,APX1B,ASCORBATE PEROXIDASE 1B,response to reactive oxygen species,ROS,GO:0000302
+AT4G35000,APX3,ASCORBATE PEROXIDASE 3,response to reactive oxygen species,ROS,GO:0000302
+AT4G32320,APX6,ASCORBATE PEROXIDASE 6,response to reactive oxygen species,ROS,GO:0000302
+AT2G01980,SOS1,ARABIDOPSIS SALT OVERLY SENSITIVE 1,response to reactive oxygen species,ROS,GO:0000302
+AT5G63310,NDPK2,ARABIDOPSIS NUCLEOSIDE DIPHOSPHATE KINASE 2,response to reactive oxygen species,ROS,GO:0000302
+AT5G01600,FER1,FERRETIN 1,response to reactive oxygen species,ROS,GO:0000302
+AT3G46230,HSP17.4,HEAT SHOCK PROTEIN 17.4,response to reactive oxygen species,ROS,GO:0000302
+AT4G18880,HSFA4A,HEAT SHOCK TRANSCRIPTION FACTOR A4A,response to reactive oxygen species,ROS,GO:0000302
+AT1G73260,KTI4,KUNITZ TRYPSIN INHIBITOR 1,response to reactive oxygen species,ROS,GO:0000302
+AT4G02380,LEA5,LATE EMBRYOGENENSIS ABUNDANT LIKE 5,response to reactive oxygen species,ROS,GO:0000302
+AT1G16420,MC8,METACASPASE 8,response to reactive oxygen species,ROS,GO:0000302
+AT1G56650,MYB75,PRODUCTION OF ANTHOCYANIN PIGMENT 1,response to reactive oxygen species,ROS,GO:0000302
+AT3G56400,WRKY70,WRKY DNA-BINDING PROTEIN 70,response to reactive oxygen species,ROS,GO:0000302
+AT5G46350,WRKY8,WRKY DNA-BINDING PROTEIN 8,response to reactive oxygen species,ROS,GO:0000302
+AT5G36925,ARACIN1,,response to reactive oxygen species,ROS,GO:0000302
+AT5G36920,ARACIN2,STMP9,response to reactive oxygen species,ROS,GO:0000302
+AT3G17790,PAP17,PURPLE ACID PHOSPHATASE 17,response to reactive oxygen species,ROS,GO:0000302
+AT3G48360,BT2,BTB AND TAZ DOMAIN PROTEIN 2,response to reactive oxygen species,ROS,GO:0000302
+AT1G12520,CCS,COPPER CHAPERONE FOR SOD1,response to reactive oxygen species,ROS,GO:0000302
+AT5G37770,CML24,CALMODULIN-LIKE 24,response to reactive oxygen species,ROS,GO:0000302
+AT4G08920,BLU1,BLUE LIGHT UNINHIBITED 1,response to reactive oxygen species,ROS,GO:0000302
+AT1G64750,DSS1(I),DELETION OF SUV3 SUPPRESSOR 1(I),response to reactive oxygen species,ROS,GO:0000302
+AT5G45010,DSS1(V),DSS1 HOMOLOG ON CHROMOSOME V,response to reactive oxygen species,ROS,GO:0000302
+AT3G48090,EDS1,ENHANCED DISEASE SUSCEPTIBILITY 1,response to reactive oxygen species,ROS,GO:0000302
+AT4G17490,ERF6,ETHYLENE RESPONSIVE ELEMENT BINDING FACTOR 6,response to reactive oxygen species,ROS,GO:0000302
+AT3G56090,FER3,FERRITIN 3,response to reactive oxygen species,ROS,GO:0000302
+AT2G40300,FER4,FERRITIN 4,response to reactive oxygen species,ROS,GO:0000302
+AT4G03240,FH,FRATAXIN HOMOLOG,response to reactive oxygen species,ROS,GO:0000302
+AT5G42980,ATH3,THIOREDOXIN 3,response to reactive oxygen species,ROS,GO:0000302
+AT3G56240,ATHMP31,HEAVY METAL ASSOCIATED PROTEIN 31,response to reactive oxygen species,ROS,GO:0000302
+AT2G26150,HSFA2,HEAT SHOCK TRANSCRIPTION FACTOR A2,response to reactive oxygen species,ROS,GO:0000302
+AT5G12030,HSP17.6,HEAT SHOCK PROTEIN 17.6,response to reactive oxygen species,ROS,GO:0000302
+AT4G10250,ATHSP22.0,HSP22,response to reactive oxygen species,ROS,GO:0000302
+AT1G52760,CSE,CAFFEOYL SHIKIMATE ESTERASE,response to reactive oxygen species,ROS,GO:0000302
+AT2G43790,MPK6,MAP KINASE 6,response to reactive oxygen species,ROS,GO:0000302
+AT2G18170,MPK7,MAP KINASE 7,response to reactive oxygen species,ROS,GO:0000302
+AT1G18150,MPK8,MAP KINASE 8,response to reactive oxygen species,ROS,GO:0000302
+AT4G21830,ATMSRB7,METHIONINE SULFOXIDE REDUCTASE B7,response to reactive oxygen species,ROS,GO:0000302
+AT4G09320,NDPK1,NUCLEOSIDE DIPHOSPHATE KINASE 1,response to reactive oxygen species,ROS,GO:0000302
+AT4G35460,NTRB,NADPH-DEPENDENT THIOREDOXIN REDUCTASE 1,response to reactive oxygen species,ROS,GO:0000302
+AT5G40770,PHB3,PROHIBITIN 3,response to reactive oxygen species,ROS,GO:0000302
+AT4G14030,SBP1,SELENIUM-BINDING PROTEIN 1,response to reactive oxygen species,ROS,GO:0000302
+AT3G10920,MSD1,MANGANESE SUPEROXIDE DISMUTASE 1,response to reactive oxygen species,ROS,GO:0000302
+AT5G58070,ATTIL,TEMPERATURE-INDUCED LIPOCALIN,response to reactive oxygen species,ROS,GO:0000302
+AT2G47900,TLP3,TUBBY LIKE PROTEIN 3,response to reactive oxygen species,ROS,GO:0000302
+AT2G40750,WRKY54,WRKY DNA-BINDING PROTEIN 54,response to reactive oxygen species,ROS,GO:0000302
+AT4G34890,XDH1,XANTHINE DEHYDROGENASE 1,response to reactive oxygen species,ROS,GO:0000302
+AT1G34420,BTL2,BAK-TO-LIFE 2,response to reactive oxygen species,ROS,GO:0000302
+AT1G09080,BIP3,BINDING PROTEIN 3,response to reactive oxygen species,ROS,GO:0000302
+AT1G05690,BT3,BTB AND TAZ DOMAIN PROTEIN 3,response to reactive oxygen species,ROS,GO:0000302
+AT4G37610,BT5,BTB AND TAZ DOMAIN PROTEIN 5,response to reactive oxygen species,ROS,GO:0000302
+AT5G51020,CRL,CRUMPLED LEAF,response to reactive oxygen species,ROS,GO:0000302
+AT1G67980,CCOAMT,CAFFEOYL-COA 3-O-METHYLTRANSFERASE,response to reactive oxygen species,ROS,GO:0000302
+AT1G20630,CAT1,CATALASE 1,response to reactive oxygen species,ROS,GO:0000302
+AT4G35090,CAT2,CATALASE 2,response to reactive oxygen species,ROS,GO:0000302
+AT4G17040,CLPR4,CLP PROTEASE R SUBUNIT 4,response to reactive oxygen species,ROS,GO:0000302
+AT5G52310,COR78,COLD REGULATED 78,response to reactive oxygen species,ROS,GO:0000302
+AT4G23140,CRK6,CYSTEINE-RICH RLK (RECEPTOR-LIKE PROTEIN KINASE) 6,response to reactive oxygen species,ROS,GO:0000302
+AT4G23150,CRK7,CYSTEINE-RICH RLK (RECEPTOR-LIKE PROTEIN KINASE) 7,response to reactive oxygen species,ROS,GO:0000302
+AT5G05410,DREB2A,DRE-BINDING PROTEIN 2A,response to reactive oxygen species,ROS,GO:0000302
+AT1G75270,DHAR2,DEHYDROASCORBATE REDUCTASE 2,response to reactive oxygen species,ROS,GO:0000302
+AT1G69890,DUF569,,response to reactive oxygen species,ROS,GO:0000302
+AT2G03050,EMB93,EMBRYO DEFECTIVE 93,response to reactive oxygen species,ROS,GO:0000302
+AT4G33630,EXE1,EXECUTER1,response to reactive oxygen species,ROS,GO:0000302
+AT1G27510,EXE2,EXECUTER 2,response to reactive oxygen species,ROS,GO:0000302
+AT3G13610,F6'H1,,response to reactive oxygen species,ROS,GO:0000302
+AT1G22770,GI,GIGANTEA,response to reactive oxygen species,ROS,GO:0000302
+AT5G23310,FSD3,FE SUPEROXIDE DISMUTASE 3,response to reactive oxygen species,ROS,GO:0000302
+AT3G14110,FLU,FLUORESCENT IN BLUE LIGHT,response to reactive oxygen species,ROS,GO:0000302
+AT3G04120,GAPC1,GLYCERALDEHYDE-3-PHOSPHATE DEHYDROGENASE C SUBUNIT,response to reactive oxygen species,ROS,GO:0000302
+AT1G61120,GES,GERANYLLINALOOL SYNTHASE,response to reactive oxygen species,ROS,GO:0000302
+AT2G43350,GPX3,GLUTATHIONE PEROXIDASE 3,response to reactive oxygen species,ROS,GO:0000302
+AT5G59720,HSP18.2,HEAT SHOCK PROTEIN 18.2,response to reactive oxygen species,ROS,GO:0000302
+AT2G41730,HRG1,,response to reactive oxygen species,ROS,GO:0000302
+AT5G24640,HRG2,,response to reactive oxygen species,ROS,GO:0000302
+AT5G37670,HSP15.7,,response to reactive oxygen species,ROS,GO:0000302
+AT1G54050,HSP17.4B,,response to reactive oxygen species,ROS,GO:0000302
+AT1G59860,HSP17.6A,,response to reactive oxygen species,ROS,GO:0000302
+AT2G29500,HSP17.6B,,response to reactive oxygen species,ROS,GO:0000302
+AT1G53540,HSP17.6C,,response to reactive oxygen species,ROS,GO:0000302
+AT1G07400,HSP17.8,,response to reactive oxygen species,ROS,GO:0000302
+AT2G19310,HSP18.5,,response to reactive oxygen species,ROS,GO:0000302
+AT1G19020,HUP35,HYPOXIA RESPONSE UNKNOWN PROTEIN 35,response to reactive oxygen species,ROS,GO:0000302
+AT3G10930,IDL7,IDA-LIKE7,response to reactive oxygen species,ROS,GO:0000302
+AT5G05300,IDL6,,response to reactive oxygen species,ROS,GO:0000302
+AT2G37860,LCD1,LOWER CELL DENSITY 1,response to reactive oxygen species,ROS,GO:0000302
+AT4G20380,LSD1,LESION SIMULATING DISEASE 1,response to reactive oxygen species,ROS,GO:0000302
+AT3G02790,MBS1,METHYLENE BLUE SENSITIVITY 1,response to reactive oxygen species,ROS,GO:0000302
+AT5G21100,MCO2,,response to reactive oxygen species,ROS,GO:0000302
+AT1G11760,MED32,MEDIATOR 2,response to reactive oxygen species,ROS,GO:0000302
+AT2G41680,NTRC,NADPH-DEPENDENT THIOREDOXIN REDUCTASE C,response to reactive oxygen species,ROS,GO:0000302
+AT4G17410,PQT3,PARAQUAT TOLERANCE3,response to reactive oxygen species,ROS,GO:0000302
+AT3G23020,PPR30,PENTATRICOPEPTIDE REPEAT (PPR) CONTAINING PROTEIN 30,response to reactive oxygen species,ROS,GO:0000302
+AT5G19790,RAP2.11,RELATED TO AP2 11,response to reactive oxygen species,ROS,GO:0000302
+AT1G20620,ROG1,REPRESSOR OF GSNOR1,response to reactive oxygen species,ROS,GO:0000302
+AT2G44270,ROL5,REPRESSOR OF LRX1,response to reactive oxygen species,ROS,GO:0000302
+AT3G08640,RER3,RETICULATA-RELATED 3,response to reactive oxygen species,ROS,GO:0000302
+AT4G08390,SAPX,STROMAL ASCORBATE PEROXIDASE,response to reactive oxygen species,ROS,GO:0000302
+AT5G13650,SVR3,SUPPRESSOR OF VARIEGATION 3,response to reactive oxygen species,ROS,GO:0000302
+AT4G12570,UPL5,UBIQUITIN PROTEIN LIGASE 5,response to reactive oxygen species,ROS,GO:0000302
+AT1G05680,UGT74E2,URIDINE DIPHOSPHATE GLYCOSYLTRANSFERASE 74E2,response to reactive oxygen species,ROS,GO:0000302
+AT2G23140,AT2G23140,,response to reactive oxygen species,ROS,GO:0000302
+AT3G28580,AT3G28580,,response to reactive oxygen species,ROS,GO:0000302
+AT3G07700,AT3G07700,,response to reactive oxygen species,ROS,GO:0000302
+AT5G63160,AT5G63160,,response to reactive oxygen species,ROS,GO:0000302
+AT4G09010,AT4G09010,,response to reactive oxygen species,ROS,GO:0000302
+AT2G26300,AT2G26300,,response to reactive oxygen species,ROS,GO:0000302
+AT5G67480,AT5G67480,,response to reactive oxygen species,ROS,GO:0000302
+AT1G77490,AT1G77490,,response to reactive oxygen species,ROS,GO:0000302
+AT4G26070,AT4G26070,,response to reactive oxygen species,ROS,GO:0000302
+AT5G58940,AT5G58940,,response to reactive oxygen species,ROS,GO:0000302
+AT1G32540,AT1G32540,,response to reactive oxygen species,ROS,GO:0000302
+AT5G55580,AT5G55580,,response to reactive oxygen species,ROS,GO:0000302
+AT5G16470,AT5G16470,,response to reactive oxygen species,ROS,GO:0000302
+AT2G17420,AT2G17420,,response to reactive oxygen species,ROS,GO:0000302
+AT4G21870,AT4G21870,,response to reactive oxygen species,ROS,GO:0000302
+AT3G49260,AT3G49260,,response to reactive oxygen species,ROS,GO:0000302
+AT4G35970,AT4G35970,,response to reactive oxygen species,ROS,GO:0000302
+AT2G19590,AT2G19590,,response to reactive oxygen species,ROS,GO:0000302
+AT1G13520,AT1G13520,,response to reactive oxygen species,ROS,GO:0000302
